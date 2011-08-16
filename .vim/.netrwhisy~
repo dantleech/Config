@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/daniel/www/yProx'
+let g:netrw_dirhist_2='/home/daniel/www/yProxDataInheritance'
+let g:netrw_dirhist_3='/home/daniel/www/yProx'
+let g:netrw_dirhist_4='/home/daniel/www/yProx/vendor/doctrine'

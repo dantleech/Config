@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/daniel/www/Trainer'
+let g:netrw_dirhist_2='/home/daniel/www/Traveler'
+let g:netrw_dirhist_3='/home/daniel/www/Voyager'
+let g:netrw_dirhist_4='/home/daniel/www/yprox-doc/doc/source'
+let g:netrw_dirhist_5='/home/daniel'
